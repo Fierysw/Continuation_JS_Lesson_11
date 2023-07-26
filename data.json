@@ -1,6 +1,6 @@
 [
     {
-        "image":"/img/1.png",
+        "image":"img/1.png",
         "name":"JACKET FOR THE COOL",
         "price":"99",
         "color":"Blue",
@@ -8,7 +8,7 @@
         "quantity":"2"
       },
       {
-        "image":"/img/2.png",
+        "image":"img/2.png",
         "name":"ELLERY X M'O CAPSULE",
         "price":"52",
         "color":"Black",
@@ -16,7 +16,7 @@
         "quantity":"4"
       },
       {
-        "image":"/img/3.png",
+        "image":"img/3.png",
         "name":"MANGO  PEOPLE  T-SHIRT",
         "price":"300",
         "color":"Blue",
@@ -24,7 +24,7 @@
         "quantity":"1"
       },
       {
-        "image":"/img/4.png",
+        "image":"img/4.png",
         "name":"FOR THE GOOD GUYS",
         "price":"30",
         "color":"Beige",
@@ -32,7 +32,7 @@
         "quantity":"6"
       },
       {
-        "image":"/img/5.png",
+        "image":"img/5.png",
         "name":"LADY'S JACKET",
         "price":"220",
         "color":"Light blue",
@@ -40,7 +40,7 @@
         "quantity":"3"
       },
       {
-        "image":"/img/6.png",
+        "image":"img/6.png",
         "name":"YOUR LOOSE CLOTHES",
         "price":"199",
         "color":"Shade of green",
